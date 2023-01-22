@@ -1,0 +1,50 @@
+body {
+ margin : 20px ;
+    border: 20px solid rgb(55, 211, 94) ;
+    padding : 20px ;
+  
+    background-color: rgb(217, 244, 96);
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    
+}
+.Personal {
+border: 2px solid black;
+padding: 20px ;
+border-radius: 12px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin : 20px ;
+
+
+}
+.Education {
+border: 2px solid black;
+
+
+padding  : 20px ;
+border-radius: 12px;
+margin : 20px ;
+
+}
+.Skills{
+    border: 2px solid black;
+padding: 20px ;
+border-radius: 12px;
+/* text-emphasis-style:  */
+margin: 20px ;
+}
+
+
+img {
+    
+    height : 200px ;
+    width : 200px ;
+    border : 2px solid green ;
+    border-radius: 20px ;
+}
+#myphoto {
+    position : absolute ;
+    top : 170px ;
+    right : 150px ;
+}
